@@ -6,6 +6,7 @@ I’m a sophomore at Yale studying Computer Science and Economics. I enjoy build
 
 ## Tech:
 - Python
+- Flask
 - JavaScript / Angular
 - Firebase
 - AI API integration (Gemini)
