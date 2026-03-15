@@ -7,10 +7,12 @@ I’m a sophomore at Yale studying Computer Science and Economics. I enjoy build
 ## Tech:
 - Python
 - Flask
-- JavaScript / Angular
-- Firebase
+- FastAPI
+- JavaScript/Typescript
+- Angular
+- Firebase, Firestore
+- Google Cloud Functions
 - AI API integration (Gemini)
 
 ## Highlighted Projects
 - AI Email Filtering System
-- OnePercent Productivity Web App
